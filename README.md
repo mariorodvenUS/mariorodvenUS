@@ -34,7 +34,7 @@
   <samp>
     [<a href="https://twitter.com/mariorodven">twitter</a>]
     [<a href="https://instagram.com/mario_rod_ven">instagram</a>]
-    [<a href="email me at:mariorodven@gmail.com">e-mail</a>]
+    [<a href="mailto:mariorodven@gmail.com">e-mail</a>]
   </samp>
 </p>
 
