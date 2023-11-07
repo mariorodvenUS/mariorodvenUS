@@ -1,5 +1,4 @@
 
-
 <!-- Mario Rodríguex Girhub Profile -->
 <div align="justify">
 
@@ -10,7 +9,7 @@
       <b>
         Hello There
       <br>
-        I'm Mario, a Student, I like computers and that stuff, just not Microsoft ones.
+        I'm Mario, and I like computers , just not Microsoft ones.
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+or+at+least+I+try.">
@@ -35,6 +34,7 @@
     [<a href="https://twitter.com/mariorodven">twitter</a>]
     [<a href="https://instagram.com/mario_rod_ven">instagram</a>]
     [<a href="mailto:mariorodven@gmail.com">e-mail</a>]
+    [<a href ="https://open.spotify.com/user/mariorodven?si=c861bf9c535a4531">spotify</a>]
   </samp>
 </p>
 
@@ -44,7 +44,7 @@
 <p align="center">
   <samp>
   <a href="#--------">
-    <img src="https://komarev.com/ghpvc/?username=mariorodvenUS&label=Profile+Views&color=grey" alt="profile views" /> 
+    <img src="https://komarev.com/ghpvc/?username=mariorodvenUS&label=Profile+Views&color=grey" alt="profile views" />
   </a>
   </samp>
 </p>
